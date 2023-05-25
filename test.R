@@ -1,7 +1,6 @@
 hiiii!!!
-
   
-  
-  hello!
+  # hello!
+  # let's make our project!
   
   
